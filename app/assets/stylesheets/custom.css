@@ -1,0 +1,25 @@
+
+
+#logo{
+  float: left;
+  font-size: 1.5em;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+#home-container{
+  margin-top: 25px;
+}
+
+.hero-unit {
+  background-image: image_path('image.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 50px;
+}
+
+
+

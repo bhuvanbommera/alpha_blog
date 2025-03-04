@@ -1,3 +1,6 @@
+import "jquery";
+import "popper.js";
+import "bootstrap";
 import { Application } from "@hotwired/stimulus"
 
 const application = Application.start()
